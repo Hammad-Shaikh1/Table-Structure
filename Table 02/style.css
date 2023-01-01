@@ -1,0 +1,37 @@
+.heading{
+    text-align: center;
+}
+
+
+.Namaz{
+    text-align: center;
+    writing-mode: vertical-lr;
+
+}
+h1,h2{
+    text-align: center;
+   
+}
+
+a:hover{
+    color: black;
+    font-size: x-large;
+    cursor: pointer;
+    font-style: italic;
+    
+}
+.col-light{
+    background-color: lightblue;
+}
+
+.col-organe{
+    background-color: orange;
+    text-align: center;
+}
+.col-pink{
+    background-color: pink;
+}
+.col-grey{
+    text-align: center;
+    background-color: gray;
+}

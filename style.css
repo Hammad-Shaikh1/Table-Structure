@@ -1,6 +1,13 @@
 
-h1,h3{
+h2,h3{
     text-align: center;
+   
+}
+a:hover{
+    color: black;
+    font-size: x-large;
+    cursor: pointer;
+    font-style: italic;
 }
 
 table{
@@ -16,6 +23,8 @@ table{
 }
 .break{
     -webkit-writing-mode: vertical-rl;
+    text-align: center;
+    text-rendering: optimizeLegibility;
 }
 .col-pink{
 background-color: lightpink;
