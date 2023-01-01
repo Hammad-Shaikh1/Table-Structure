@@ -1,0 +1,38 @@
+
+h1,h3{
+    text-align: center;
+}
+
+table{
+    min-width: 300px;
+    
+}
+
+.col-last{
+    background-color: bisque;
+}
+.col-antiquewhite{
+    background-color: antiquewhite;
+}
+.break{
+    -webkit-writing-mode: vertical-rl;
+}
+.col-pink{
+background-color: lightpink;
+text-align: center;
+}
+.col-organe{
+    background-color: orange;
+    text-align: center;
+}
+.col-ligorange{
+    background-color: lightsalmon;
+}
+
+.col-grey{
+    background-color: lightgrey;
+    text-align: center;
+}
+.col-aqua{
+    background-color: aqua;
+}
