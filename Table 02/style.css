@@ -35,3 +35,10 @@ a:hover{
     text-align: center;
     background-color: gray;
 }
+
+.col-last{
+    background-color:cyan;
+}
+.col-ligtgreen{
+    background-color: lightgray;
+}
